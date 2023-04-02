@@ -1,0 +1,28 @@
+.discord-card {
+    border: none;
+    box-shadow: none;
+    background-color: #36393F;
+    color: #fff;
+  }
+  
+  .discord-card .card-header {
+    background-color: #2F3136;
+    border-bottom: none;
+  }
+  
+  .discord-card .avatar {
+    width: 36px;
+    height: 36px;
+    border-radius: 50%;
+  }
+  
+  .discord-card .card-body {
+    padding-top: 0;
+    padding-bottom: 0;
+  }
+  
+  .discord-card .btn-primary {
+    background-color: #5865F2;
+    border-color: #5865F2;
+  }
+  

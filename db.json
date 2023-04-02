@@ -1,0 +1,76 @@
+{
+  "users": [
+    {
+      "name": "abhijith",
+      "email": "abhijithippa@gmail.com",
+      "password": "heiii",
+      "data": "6. Food Ordering System This is one of the best startup ideas that you can, and you must start right away. People wish to ease their hunger with delicious food available in their areas. This all is required with no contact adhering to the new rules coronavirus is making us follow.Mobile apps based on food ordering systems are finding it easy to gain new users and let people find great food nearby. This is one of the preferred startup businesses in these times.Some of the best features you can include are estimated time of food delivery, real-time tracking of the delivery person, and in-app payments. These features will help you increase credibility among the users. An iOS and Android mobile app will enable users to interact with the app better and find what they like with ease.",
+      "linkedIn": "https://www.linkedin.com/company/forbes-magazine/",
+      "id": 1,
+      "img": "https://tse4.mm.bing.net/th?id=OIP.wRtvON_8JKRQghdROw5QvQHaHa&pid=Api&P=0"
+    },
+    {
+      "name": "Anshitha Reddy",
+      "email": "ashithachandireddy@gmail.com",
+      "password": "oktype",
+      "data": "8. Property BusinessShort-term strategies will help you earn money with this startup business idea. Property Business is one of the best business ideas that will enable people to buy and sell their properties with ease.A mobile app will allow people to list their properties, and buyers will be able to view pictures and buy properties of their choice. Here, you can add in your commission for the buyer, seller, or both, thereby earning a lot.",
+      "linkedIn": "https://www.linkedin.com/in/anshitha-chandhireddy-6ab3a5232/",
+      "id": 2,
+      "img": "https://tse4.mm.bing.net/th?id=OIP.0A1RSeVHV4YfoDGR2jUvHwHaHa&pid=Api&P=0"
+    },
+    {
+      "name": "Tejaswi Reddy",
+      "email": "tejaswireddyc@gmail.com",
+      "password": "justtype",
+      "data": "2. Online Appointment System.Taking appointments with doctors is difficult for both patients and doctors. Patients keep on worrying whether their appointment is yet there, and for doctors, it becomes difficult to manage so many people.A mobile app can be a device where people would be able to book their appointments. After booking the appointment people can know the number of their appointment at an estimated time of reporting.You can also include real-time tracking of appointments so that people will not have to waste time and they can report when their appointment is about to come.You can create a business plan for yourself with our blog, How To Write A Perfect Business Plan for your journey: Step-Wise Guide.",
+      "linkedIn": "https://www.linkedin.com/in/chilveri-tejaswi-reddy-776a23246/",
+      "id": 3,
+      "img": "https://tse4.mm.bing.net/th?id=OIP.Uo81CoJ1d7-M93o3mhGNQwHaHa&pid=Api&P=0"
+    },
+    {
+      "name": "Sreejaraj",
+      "email": "sreejarajrangu@gmail.com",
+      "password": "typeagainn",
+      "data": "16. Job Portal For Job Seeker In these tough times, there are many people who are looking for jobs and there are many people who are unable to find the right talent. Job Portal For Job Seeker is a startup idea that enables employees and employers to meet each other.This is the best time to develop such a website and mobile app as there are many people who are looking for jobs after the coronavirus pandemic. This would allow companies to connect with people on the app. People seeking jobs would also be able to send their resumes to the companies they like.",
+      "linkedIn": "https://www.linkedin.com/in/sreeja-raj-rangu-7578b2263/",
+      "id": 4,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.Bt2tDCEAP7IRxzzCaVJEfwHaHa&pid=Api&P=0"
+    },
+    {
+      "name": "Aditya roy",
+      "email": "adityaroy@gmail.com",
+      "password": "goontyping",
+      "data": "23. Hardware Intelligence This money-making startup business idea would require knowledge of hardware from your side. This will help you earn money and make the lives of people better.In this business idea, the mobile app would be able to communicate with the hardware of the device. If any hardware needs to be replaced the user will be notified about it.",
+      "linkedIn": "https://www.linkedin.com/company/forbes-magazine/",
+      "id": 5,
+      "img": "https://tse2.mm.bing.net/th?id=OIP.BO2P_Nrjc409e9pCR_DbfgHaF7&pid=Api&P=0"
+    },
+    {
+      "name": "Ippa Abhijith",
+      "email": "abhijithippa@gmail.com",
+      "linkedIn": "gsyg",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIMA4wMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAAMEBgcCAQj/xABGEAABAwMCAgYECgcHBQEAAAABAAIDBAUREiEGMRMiQVFhcRQyk9EHFRZCUoGRobGyM1NUksHS4SM0Q2Jy8PEkNUSCoib/xAAbAQADAQEBAQEAAAAAAAAAAAAAAQIDBAUGB//EADMRAAICAQQABAUEAQIHAAAAAAABAhEDBBIhMRMUQVEFImGh0TJScbEzNIEGI0JykeHx/9oADAMBAAIRAxEAPwDcUAeFAAaV7RK/cesfxWbNEc6x3hIdHuUBQsoChZQKhZQFCygKFlAULKAoSAoRODg80BQ0aqna4tdPECOYLwi0PaOg5GRyQKkLzQOhIChIChIChIChZQFCygKPNQ70BQtQ70BQtQ7wgVCLh3j7UDoJ0G9M3zP4rRdGcuySmISAEgBIAp9Wyr9Mn0P6vSOxt4rN9mq6ONFaPnhIdnTRWdrkAe4q8+sgDoCq70DOh6X2IA6/6zwQI9Bq+4IELNWT2IGB+I7/ADWiB3VDptILc8hkkfwSb9ClG1Zkt44ovlY/XNVSAO5adjju8EKKBya6IMXElybqbO8yRhuNLwNPmjYh+LIsVl4sr43N9CrZGPDcubM4aHeGk/78VHKGqkaBw3xQb3rpm7V0Lcys0nSfEH+B3VJv1JaDgkq/oj7FRIjLV/RH2IGcdNV/RCQjkzVn0QiwF0tZ9EIGcmWs7h9iYHPS1ncPsQB50lYewfYgDxz63uCAOC6tPcgZabFr+",
+      "password": "vhgasdas",
+      "data": "hello iam abhjijth",
+      "id": 6
+    },
+    {
+      "name": "Ippa Abhijith",
+      "email": "abhijithippa@gmail.com",
+      "linkedIn": "sdxcfg",
+      "image": "rwetryt",
+      "password": "qwafesraet",
+      "data": "rwatesrydtuf",
+      "id": 7
+    },
+    {
+      "name": "Ippa Abhijith",
+      "email": "abhijithippa@gmail.com",
+      "linkedIn": "sdxcfg",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kKDQsJCYxJx8fLT0tMTU3Ojo6Iys/RD84QzQ5OjcBCgoKDQwNGg8PGjclHyU3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3Nzc3N//AABEIAIMA4wMBEQACEQEDEQH/xAAcAAABBQEBAQAAAAAAAAAAAAAFAAMEBgcCAQj/xABGEAABAwMCAgYECgcHBQEAAAABAAIDBAUREiEGMRMiQVFhcRQyk9EHFRZCUoGRobGyM1NUksHS4SM0Q2Jy8PEkNUSCoib/xAAbAQADAQEBAQEAAAAAAAAAAAAAAQIDBAUGB//EADMRAAICAQQABAUEAQIHAAAAAAABAhEDBBIhMRMUQVEFImGh0TJScbEzNIEGI0JykeHx/9oADAMBAAIRAxEAPwDcUAeFAAaV7RK/cesfxWbNEc6x3hIdHuUBQsoChZQKhZQFCygKFlAULKAoSAoRODg80BQ0aqna4tdPECOYLwi0PaOg5GRyQKkLzQOhIChIChIChIChZQFCygKPNQ70BQtQ70BQtQ7wgVCLh3j7UDoJ0G9M3zP4rRdGcuySmISAEgBIAp9Wyr9Mn0P6vSOxt4rN9mq6ONFaPnhIdnTRWdrkAe4q8+sgDoCq70DOh6X2IA6/6zwQI9Bq+4IELNWT2IGB+I7/ADWiB3VDptILc8hkkfwSb9ClG1Zkt44ovlY/XNVSAO5adjju8EKKBya6IMXElybqbO8yRhuNLwNPmjYh+LIsVl4sr43N9CrZGPDcubM4aHeGk/78VHKGqkaBw3xQb3rpm7V0Lcys0nSfEH+B3VJv1JaDgkq/oj7FRIjLV/RH2IGcdNV/RCQjkzVn0QiwF0tZ9EIGcmWs7h9iYHPS1ncPsQB50lYewfYgDxz63uCAOC6tPcgZabFr+",
+      "password": "awdyvagd",
+      "data": "its my idea",
+      "id": 8
+    }
+  ]
+}

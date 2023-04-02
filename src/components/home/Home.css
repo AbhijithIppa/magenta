@@ -1,0 +1,51 @@
+/* Center the cards horizontally */
+.row {
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Add margin to the top */
+  .mt-5 {
+    margin-top: 2rem;
+  }
+  
+  /* Remove extra margin from cards */
+  .card {
+    margin: 0.5rem;
+  }
+  
+  /* Style the card images */
+  .card-img-top {
+    height: 12rem;
+    object-fit: cover;
+  }
+  
+  /* Style the card headers */
+  .card-header {
+    background-color: #007bff;
+    color: white;
+    text-align: center;
+  }
+  
+  /* Style the card bodies */
+  .card-body {
+    text-align: center;
+  }
+  
+  /* Style the buttons */
+  .btn {
+    background-color: #f8f9fa;
+    color: #007bff;
+    border-color: #007bff;
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .btn:hover {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+  }
+  body {
+    background-color: #36393F;
+  }
